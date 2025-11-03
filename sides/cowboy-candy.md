@@ -10,7 +10,7 @@
 
 ## Ingredients
 - 2 lb jalapeños
-- 2 cups sugar
+- 1 cup sugar
 - 1 cup apple cider vinegar
 - 1 cup water
 - 1 tsp turmeric (or curry powder)
@@ -37,6 +37,7 @@
 - Great on burgers, nachos, cream cheese and crackers, or straight from the jar
 - The syrup is baller AF - use it in cocktails or salad dressings
 - Will keep refrigerated for months
+- The original recipe has 2 cups of sugar, but that gets a bit too sweet
 
 ---
 
