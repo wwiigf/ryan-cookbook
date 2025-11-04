@@ -44,6 +44,9 @@
 **[Kale Caesar](sides/kale-caesar.md)**  
 *"I hate salad #1"*
 
+**[Shio Pan](mains/shio-pan.md)**  
+*"塩パン"*
+
 ---
 
 ## 🧂 Sauces & Rubs
