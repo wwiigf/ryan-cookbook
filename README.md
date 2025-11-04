@@ -77,6 +77,9 @@
 **[Honey Butter Toast](desserts/honey-butter-toast.md)**  
 *"EZ, crispy, Japanese goodness"*
 
+**[Coffee Cake](desserts/coffee-cake.md)**  
+*"Ooey gooey and good"*
+
 ---
 
 ## 🇦🇲 Armenian 
