@@ -23,6 +23,9 @@
 **[Risotto alla Pilota](mains/risotto-alla-pilota.md)**  
 *"It's sausage and rice, but the name sounds fancy"*
 
+**[Thanksgiving Spatchcocked Turkey](mains/thanksgiving-spatchcocked-turkey.md)**  
+*"It's either this, or burning down your house and loved ones in a fiery ball of death by frying a turkey"*
+
 ---
 
 ## 🥘 Sides
