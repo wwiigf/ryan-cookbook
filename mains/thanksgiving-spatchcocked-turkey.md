@@ -53,5 +53,5 @@
 ---
 
 ## Related Recipes
-- [Cornbread](../sides/cornbread.md) - Essential Thanksgiving side
-- [Collard Greens](../sides/collard-greens.md) - Complete the feast
+- [Cornbread](../sides/cornbread.md) - Good side to have, people like cornbread, I don't know
+- [Mac n cheese](../mains/southern-mac-n-cheese.md) - If you don't have mac n cheese then what the fuck are you doing
