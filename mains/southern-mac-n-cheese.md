@@ -19,7 +19,7 @@
 ### Roux & Cheese Sauce
 - 1 stick butter + 1/4 cup butter (for topping)
 - 1/4 – 1/2 cup flour
-- 1 cup whole milk (or evaporated milk for a more classic texture)
+- 1 cup whole milk (or evaporated milk for a more classic texture). I actually buy a whole quart of milk, and keep using it to thin out the cheese sauce to the right consistency. Sometimes I use the whole quart depending on the amount of cheese I use. 
 
 ### Cheeses
 - 1/5 block Velveeta cheese, cubed
@@ -66,7 +66,7 @@
 
 ## Notes
 
-- The key to this recipe is making sure you're using enough milk before baking. Don't hesitate to continue adding milk above what the recipe asks for. 
+- The key to this recipe is making sure you're using enough milk before baking. Don't hesitate to continue adding milk above what the recipe asks for. I use up to a quart sometimes. 
 - The butter cubes on top create crispy, golden spots that are absolutely essential
 - Don't skip the mustards - they add a tangy depth that balances all that cheese
 - Feel free to adjust the hot sauce and cajun seasoning to your heat preference. I use Louisianna style hotsauce for this. 
