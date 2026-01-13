@@ -53,6 +53,9 @@
 **[Shio Pan](sides/shio-pan.md)**  
 *"塩パン"*
 
+**[Crab Dip](sides/crab-dip.md)**  
+*"Be a disgusting person and eat the whole thing yourself"*
+
 ---
 
 ## 🧂 Sauces & Rubs
