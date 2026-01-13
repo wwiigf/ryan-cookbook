@@ -5,7 +5,6 @@
 **Cook Time:** 45 minutes  
 **Total Time:** 1.5 hours  
 **Servings:** 4
-
 ---
 
 ## Ingredients
