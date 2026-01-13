@@ -26,6 +26,9 @@
 **[Thanksgiving Spatchcocked Turkey](mains/thanksgiving-spatchcocked-turkey.md)**  
 *"It's either this, or burning down your house and loved ones in a fiery ball of death by frying a turkey"*
 
+**[Halal Chicken Plate](mains/halal-chicken-plate.md)**  
+*"For white people to enjoy something with some spices on it"*
+
 ---
 
 ## 🥘 Sides
