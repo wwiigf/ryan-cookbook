@@ -91,6 +91,12 @@
 
 ---
 
+## 🍹 Drinks
+**[Gin Fizz](drinks/gin-fizz.md)**  
+*"You only make this on Thanksgiving"*  
+
+---
+
 ## 🇦🇲 Armenian 
 
 **[Chodag](armenian/chodag.md)**  
