@@ -35,6 +35,7 @@
 ## Notes
 - If the first batch doesn't work out, just drink it all and try again. The booze will let you enter a flow state. 
 
+
 ---
 
 ## Related Recipes
