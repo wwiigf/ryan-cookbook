@@ -114,6 +114,7 @@
 
 **[The Wise One BGE Guide](resources/WiseOneRecipes.pdf)** - Essential for overnight smoking
 
+
 ---
 
 *[Back to Top](#ryans-cookbook-)*
